@@ -24,7 +24,7 @@ spec:
         app: run-service
     spec:
       containers:
-      - image: public.ecr.aws/o6u7e2l7/bsidesnova2022:unison-test-user-3-workshop-application-7e13d0fc2203091d1f9dcb18ec832f314e942961
+      - image: public.ecr.aws/o6u7e2l7/bsidesnova2022:unison-test-user-3-workshop-application-47325d4628c48305f17293a2c22a8f4456f6e230
         imagePullPolicy: Always
         name: pause
         resources: {}
